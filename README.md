@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Maleware-Classifier**
 
-- 🌱 I’m currently learning **Deep-learning**
+- 🌱 I’m currently learning **Deep-learning & Python**
 
 - 📫 How to reach me **ana.akbarzadeh@aut.ac.ir**
 
